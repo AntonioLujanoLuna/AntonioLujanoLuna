@@ -4,14 +4,18 @@
 I'm a Machine Learning Engineer focused on evolutionary computation and neural network architectures. My work explores specialized solutions like monotonic and ordinal neural networks.
 
 ### 🔭 Current Projects
-- [DLpy](https://github.com/AntonioLujanoLuna/DLpy): An educational deep learning library with interactive notebooks exploring neural network fundamentals
+- [DLpy](https://github.com/AntonioLujanoLuna/DLpy): An educational deep learning library with interactive notebooks exploring neural network fundamentals, PyTorch inspired
+- [DitheringApp](https://github.com/AntonioLujanoLuna/DitheringApp): A web application for image dithering offering various algorithms and custom palette options
+- [pyevo](https://github.com/AntonioLujanoLuna/pyevo): A Python library for evolutionary algorithms and genetic programming with visual examples of how can we use them 
+- [magic_folder](https://github.com/AntonioLujanoLuna/magic_folder): A utility tool that automates file organization based on customizable rules and patterns
 - Research on grammatical evolution for imbalanced classification problems
 - Exploring monotonic constraints in [Neural Networks](https://github.com/AntonioLujanoLuna/MonotonicNeuralNetworks)
 
 ### 🎯 Technical Interests
 - Neural Network Architecture Design
+- Constrained supervised Learning
 - Semi/Unsupervised Learning Approaches
-- Evolutionary Algorithms & Metaheuristics
+- Evolutionary Algorithms & Metaheuristics for Optimization
 - Large Language Models
 
 ### 💻 Tech Stack
