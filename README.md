@@ -12,7 +12,7 @@ I'm a Machine Learning Engineer focused on evolutionary computation and neural n
 - Exploring monotonic constraints in [Neural Networks](https://github.com/AntonioLujanoLuna/MonotonicNeuralNetworks)
 
 ### 🤝 Repos I have contributed to
-- [Exo](https://github.com/exo-explore/exo)
+- [Exo](https://github.com/exo-explore/exo) Run your own AI cluster at home with everyday devices
 
 ### 🎯 Technical Interests
 - Neural Network Architecture Design
