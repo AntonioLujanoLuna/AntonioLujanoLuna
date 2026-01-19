@@ -11,6 +11,9 @@ I'm a Machine Learning Engineer focused on evolutionary computation and neural n
 - Research on grammatical evolution for imbalanced classification problems
 - Exploring monotonic constraints in [Neural Networks](https://github.com/AntonioLujanoLuna/MonotonicNeuralNetworks)
 
+### 🤝 Repos I have contributed to
+- [Exo](https://github.com/exo-explore/exo)
+
 ### 🎯 Technical Interests
 - Neural Network Architecture Design
 - Constrained supervised Learning
